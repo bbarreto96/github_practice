@@ -3,3 +3,17 @@ This is another commit!
 and here we got with many other commits! 
 
 okay so lets clear some things up...
+
+whats the conclusion here? 
+Basically, i have two options to incldue all of my changes (new files, editted files etc etc) and that is to is commands like 
+
+git add <specific file name> 
+or 
+git add . 
+---> which is way more convinient ....
+
+once we have added these to the staging stage...
+
+we are now allowed to COMMIT them or take a SNAPSHOT of the new edits/code and upload them to github etc etc... or just keep on the terminal itself for future use...
+
+lets try that out once again 
